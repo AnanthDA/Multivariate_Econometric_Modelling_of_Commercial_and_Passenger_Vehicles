@@ -1,0 +1,2 @@
+# Multivariate_Econometric_Modelling_of_Commercial_and_Passenger_Vehicles
+This GitHub repository presents a comprehensive analysis of the commercial and passenger vehicle markets, employing advanced econometric techniques and machine learning methodologies. The primary objective of this project is to provide data-driven insights and accurate forecasts for decision-makers in the automotive industry.
