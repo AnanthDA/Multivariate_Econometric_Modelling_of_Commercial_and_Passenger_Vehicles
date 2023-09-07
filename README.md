@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="your-image.png" alt="Project Logo" width="200">
-</p>
-
 # Multivariate Econometric Modeling of Commercial and Passenger Vehicles
 
 ### Overview
